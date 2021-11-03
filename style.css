@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-image: url("electric_light_line_background_6821123.jpg");
+}
+header {
+    width: 80%;
+    background-color:steelblue;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+    overflow: hidden;
+}
+ 
+nav ul{
+    list-style-type: none;
+    display: inline-block;
+    overflow: hidden;
+}
+nav li{
+    float:left;
+    margin-right:10px;
+}
+
+hgroup{
+    width: 70%;
+    float: left;
+    padding-top: 0;
+    line-height: 1em;
+}
+ 
+section {
+    width: 80%;
+    background-color: whitesmoke;
+    margin-right: auto;
+    margin-left: auto;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    padding:5px;
+}
+p{
+    margin: 15px;px;
+}
+h1{
+    margin-left: 10px;
+    font-size: 2em;
+    color: red;
+    margin-top:5px;
+}
+h2{
+    margin-left: 10px;
+    font-size: 1.5em;
+}
+h3{
+    margin-left: 10px;
+    font-size: 1.2em;
+}
+h4{
+    color:black;
+}
+img{
+    float: right;
+    margin:0px 0px 10px 10px;
+    box-shadow: 3px 3px 5px 1px #cccc;
+}
+aside{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: .8em;
+    background:#eeff99 ;
+    padding: 20px;
+    border:1px solid;
+    border-radius: 20px;
+}
+small{
+    padding-left: 10px;
+}
+footer{
+    width: 79%;
+    background-color:steelblue;
+    margin-right: auto;
+    margin-left: auto;
+    height: 50px;
+    padding: 10px;
+}
+footer nav{
+    float: right;
+    margin-right: auto;
+    margin-left:auto;
+     
+}
+ 
